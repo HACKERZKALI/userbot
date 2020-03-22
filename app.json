@@ -24,11 +24,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "1248019"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "dc8f87c2d1126bb2ac4ed258a4941e05"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally",
@@ -71,7 +71,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "",
+      "value": "976815891:AAEFMi_4JZPC-Gij_hSUWxW_rdklDu2RsSE",
       "required": false
     },
     "CHROME_BIN": {
@@ -86,7 +86,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "",
+      "value": "@todayshacker_bodyguard_bot",
       "required": false
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
