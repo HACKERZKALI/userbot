@@ -12,6 +12,8 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @XtraTgBot"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
+USER_BOT_NO_WARN = ("[[BODYGARD OF TODAYSHACKER SIR]](tg://user?id=1116223246)\n\n"
+                    "`Hello, I will answer to your message soon .`\n\n"
 USER_BOT_NO_WARN = ("`Hello, I will answer to your message soon .`\n\n"
                     "`Please wait for my response and Please **DON'T SPAM** with me.`\n\n"
                     "`TAG ME IN @EONARMYDISCUSSION FOR GET FAST RESPONSE`\n\n"
