@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      "`My creater is:` [TODAYSHACKER](tg://user?id=1116223246)\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, My master!\n`"
                      f"`My sir`: @TODAYSHACKER \n"
-                     "[JOIN MY SIR CHANNEL](https://t.me/eonarmy)")
+                     "[JOIN MY SIR CHANNEL](https://t.me/netflix_commix)")
